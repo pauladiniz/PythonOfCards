@@ -2,7 +2,9 @@
 """
 Created on Wed May 17 15:39:27 2017
 
-@author: USUARIO
+Ex 04
+Aluna: Paula Diniz 
+TIA: 31760414
 """
 
 #Definindo as variáveis
