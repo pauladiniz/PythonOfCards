@@ -2,7 +2,9 @@
 """
 Created on Wed May 17 15:51:36 2017
 
-@author: USUARIO
+Ex 02
+Aluna: Paula Diniz 
+TIA: 31760414
 """
 
 def listar_perfeitos(k):
