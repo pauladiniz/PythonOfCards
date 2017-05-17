@@ -2,7 +2,9 @@
 """
 Created on Wed May 17 14:12:16 2017
 
-@author: USUARIO
+Ex 03
+Aluna: Paula Diniz 
+TIA: 31760414
 """
 
 n = (input("Digite um numero"))
