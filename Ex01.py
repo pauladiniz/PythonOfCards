@@ -2,7 +2,9 @@
 """
 Created on Wed May 17 14:32:15 2017
 
-@author: USUARIO
+Ex 01
+Aluna: Paula Diniz 
+TIA: 31760414
 """
 
 a = 80000
