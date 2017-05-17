@@ -7,14 +7,19 @@ Aluna: Paula Diniz
 TIA: 31760414
 """
 
-def listar_perfeitos(k):
-    numero_de_perfeitos = 0
-    i = 2
-                    while numero_de_perfeitos<k:
-                        soma=0
-                        for j in range(1,i):
-                            if i%j==0:
-                                soma = soma+jif 
-                                soma==i:
-                                    print inumero_de_perfeitos = numero_de_perfeitos+1
-                                    i = i+157
+n=int(input("Digite um Número: "))
+c= 1
+soma= 0
+
+if n>0:
+    while c<n:
+       if n%c==0:
+        soma= soma+c
+        c= c+ 1
+       else:
+        c= c+ 1
+
+if soma==n:
+    print("O número é perfeito.")
+else:
+    print("O número não é perfeito.")
