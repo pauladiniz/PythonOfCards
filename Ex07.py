@@ -1,5 +1,10 @@
-#MATHEUS CALABRESE
-#EXERCÍCIO 7
+# -*- coding: utf-8 -*-
+"""
+Created on Wed May 17 15:39:27 2017
+Ex 07
+Aluna: Paula Diniz 
+TIA: 31760414
+"""
 
 respostas =  ['A', 'B', 'C', 'D', 'E', 'E', 'D', 'C', 'B', 'A'] #Lista com as respostas do teste
 
